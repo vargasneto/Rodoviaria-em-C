@@ -1,0 +1,14 @@
+
+Partida- o
+
+Destino- p
+ 
+Saida- 15.55
+
+Chegada- 16.44
+
+Quantidade de passagens- 1
+
+Valor pago- R$ 21.30
+
+

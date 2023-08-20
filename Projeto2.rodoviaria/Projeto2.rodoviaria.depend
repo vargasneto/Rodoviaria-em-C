@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668710046 source:c:\users\adm\desktop\trabalhos f\projeto2.rodoviaria\multi_ap.c
+	"multi.h"
+
+1668710054 c:\users\adm\desktop\trabalhos f\projeto2.rodoviaria\multi.h
+
+1668922734 source:c:\users\adm\desktop\trabalhos f\projeto2.rodoviaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"multi.h"
+
+1669146319 source:c:\users\adm\desktop\alistamento\projeto2.rodoviaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"multi.h"
+
+1668710056 c:\users\adm\desktop\alistamento\projeto2.rodoviaria\multi.h
+
+1668710048 source:c:\users\adm\desktop\alistamento\projeto2.rodoviaria\multi_ap.c
+	"multi.h"
+
